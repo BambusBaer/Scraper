@@ -1,4 +1,28 @@
+### JAVA ###
+
 .gradle
+# User-specific stuff
+/Java/.idea/**/workspace.xml
+/Java/.idea/**/tasks.xml
+/Java/.idea/**/usage.statistics.xml
+/Java/.idea/**/dictionaries
+/Java/.idea/**/shelf
+
+# Generated files
+/Java/.idea/**/contentModel.xml
+
+# Sensitive or high-churn files
+/Java/.idea/**/dataSources/
+/Java/.idea/**/dataSources.ids
+/Java/.idea/**/dataSources.local.xml
+/Java/.idea/**/sqlDataSources.xml
+/Java/.idea/**/dynamic.xml
+/Java/.idea/**/uiDesigner.xml
+/Java/.idea/**/dbnavigator.xml
+
+# Gradle
+/Java/.idea/**/gradle.xml
+/Java/.idea/**/libraries
 /build/
 
 # Ignore Gradle GUI config
